@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" role="img" aria-label="Fishing hook catching an envelope">
-  <rect x="60" y="120" width="140" height="90" rx="8" fill="#FFFFFF" stroke="#0F2E3D" stroke-width="6"/>
-  <path d="M60 128 L130 178 L200 128" fill="none" stroke="#0F2E3D" stroke-width="6" stroke-linejoin="round"/>
-  <path d="M215 10 V90 C215 130 270 130 270 95 V80" fill="none" stroke="#D9503F" stroke-width="10" stroke-linecap="round"/>
-  <path d="M258 92 L270 76 L282 92" fill="none" stroke="#D9503F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

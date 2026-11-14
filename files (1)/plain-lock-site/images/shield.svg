@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-label="Shield with a keyhole">
-  <path d="M200 20 L360 80 V210 C360 310 290 380 200 420 C110 380 40 310 40 210 V80 Z" fill="#1E5A6E"/>
-  <path d="M200 50 L330 98 V208 C330 292 272 352 200 386 C128 352 70 292 70 208 V98 Z" fill="#0F2E3D"/>
-  <circle cx="200" cy="190" r="42" fill="#F2B134"/>
-  <path d="M182 220 H218 L228 300 H172 Z" fill="#F2B134"/>
-  <circle cx="200" cy="190" r="16" fill="#0F2E3D"/>
-  <path d="M192 196 H208 L212 256 H188 Z" fill="#0F2E3D"/>
-</svg>
